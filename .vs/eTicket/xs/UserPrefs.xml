@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{065E8816-6C23-401B-A60A-573A7F593D3E}|https">
-  <MonoDevelop.Ide.ItemProperties.eTicket FirstBuild="True" />
+﻿<Properties StartupConfiguration="{065E8816-6C23-401B-A60A-573A7F593D3E}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.eTicket PreferredExecutionTarget="/Applications/Google Chrome 2.app" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
